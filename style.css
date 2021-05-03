@@ -56,3 +56,20 @@ border: 1px solid;
 color: rgb(255, 238, 0);
 box-shadow: none;
 }
+span
+{
+    border: 2px solid black;
+    width: 310px;
+    height: 500px;
+    box-shadow: 5px 5px 18px rgb(255, 255, 255);
+    background-color: black;
+    color: white;
+}
+h2{
+    color: black;
+}
+#copyright{
+    
+    color: white;
+    text-align: left;
+}
